@@ -1,2 +1,2 @@
 # CODSOFT
-CODSOFT Internship Task - personal portfolio using html and CSS
+CODSOFT Internship Task - personal portfolio Website using html and CSS
